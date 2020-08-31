@@ -1,4 +1,5 @@
 (ns web-scraper.core
+  (:gen-class)
   (:require [cheshire.core :as json])
   (:require [clojure.string :as str])
   (:require [clojure.pprint])
