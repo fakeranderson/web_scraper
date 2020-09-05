@@ -4,7 +4,7 @@ Quick way to generate the last 7 days' PS4 releases. Written for CLS Sacred Symb
 
 ## Usage
 
-Open the standalone folder. If on Windows, then just double-click GenerateTitles.bat, or if on a good operating system just run GenerateTitles.sh, then a file called "title_descriptions.txt" will appear in the directory with the goods. There's some junk still in there, but this should be enough to end this nightmare.
+Open the standalone folder. If on Windows just double-click GenerateTitles.bat, or if on a good operating system just run GenerateTitles.sh, then a file with the goods called "title_descriptions.txt" will appear shortly in the same directory. There's some junk still in there, but this should be enough to end this nightmare.
 
 ## License
 
