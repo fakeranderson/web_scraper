@@ -1,10 +1,10 @@
 # web_scraper
 
-A Clojure library designed to ... well, that part is up to you.
+Quick way to generate the last 7 days' PS4 releases. Written for CLS Sacred Symbols so Chris Maldonado can finally stop doing his bad Justin Roiland impression when making up game descriptions. Josh Eckroth did most of the clojure web scraping work, while I did the easy stuff.
 
 ## Usage
 
-FIXME
+Open the standalone folder. If on Windows, then just double-click GenerateTitles.bat, or if on a good operating system just run GenerateTitles.sh, then a file called "title_descriptions.txt" will appear in the directory with the goods. There's some junk still in there, but this should be enough to end this nightmare.
 
 ## License
 
