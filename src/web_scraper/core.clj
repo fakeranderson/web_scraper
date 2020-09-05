@@ -29,5 +29,4 @@
                     title (first (html/select page [:title]))
                     desc (html/select page [:div.pdp__description :p html/text-node])]
               :when (and title (not-empty desc))]
-          {:title (str/trim (first (:content title))) :description (str/join "\n" desc)})))))
-
+          {:title (str/trim (first (:content title))) :description (str/join "\n" desc)}) {:pretty true}))))
